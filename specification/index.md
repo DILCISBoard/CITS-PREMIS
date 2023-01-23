@@ -1,8 +1,8 @@
 ---
-title: E-ARK CITS Archival Information
+title: E-ARK CITS PREMIS
 ---
-CITS Archival Information
+CITS Preservation Metadata
 =========================
 
-- [CITS Archvial Information PDF](./CITS_Archival_Information_v1.0.pdf)
+- [CITS PREMIS PDF](./CITS_Preservation_metadata_v1.0.pdf)
   Version 1.0.0
