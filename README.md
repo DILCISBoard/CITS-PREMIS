@@ -7,4 +7,4 @@ This is the common specification for preservation metadata based upon the standa
 
 A note: Following a decision in the DILCIS Board the specification has been renamed as a Common Specification. [DILCIS Board notes 1](https://github.com/DILCISBoard/GroupDocumentation/blob/master/MeetingNotes/2023/20230815%20DILCIS%20Board.md) and [DILCIS Board notes 2](https://github.com/DILCISBoard/GroupDocumentation/blob/master/MeetingNotes/2023/20230913%20DILCIS%20Board.md)
 
-Read the specification here: [CS PREMIS].(https://citspremis.dilcis.eu/specification/CS_Preservation_metadata_v1_0_1.pdf)
+Read the specification here: [CS PREMIS](https://citspremis.dilcis.eu/specification/CS_Preservation_metadata_v1_0_1.pdf)
